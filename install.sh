@@ -5,7 +5,6 @@ echo "qwakeactyl Installer"
 echo "====================="
 echo "Note that this install"
 echo "Is just for ubuntu OS"
-apt install sudo
 echo ========================================
 
 install_options(){
