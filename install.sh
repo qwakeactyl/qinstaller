@@ -7,7 +7,7 @@ echo "Note that this install"
 echo "Is just for ubuntu OS"
 echo ========================================
 
-install_options(){
+options(){
     echo "Please select your installation option:"
     echo "[1] Full Fresh qwakeactyl Install (Dependercies, Files, Configuration)"
     echo "[2] Install the Dependercies."
@@ -188,4 +188,4 @@ finish_update() {
    rm -R /var/www/qwakeactyl/
    file_install
 }
-install_options
+options
