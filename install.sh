@@ -1,10 +1,10 @@
 set -e
 clear
 echo "====================="
-echo "qwakeactyl Installer"
+echo "Qwakeactyl Installer"
 echo "====================="
 echo "Note that this install"
-echo "Is just for ubuntu OS"
+echo "Is just for Ubuntu/Debain OS"
 echo ========================================
 
 options(){
