@@ -9,7 +9,7 @@ echo ========================================
 
 options(){
     echo "Please select your installation option:"
-    echo "[1] Full Fresh Qwakeactyl Install (Dependercies, Files, Configuration)."
+    echo "[1] Full Fresh qwakeactyl Install (Dependercies, Files, Configuration)"
     echo "[2] Install the Dependercies."
     echo "[3] Install the Files."
     echo "[4] Configure Settings."
